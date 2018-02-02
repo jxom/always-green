@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "Always Green",
+  "version": "1.0.1",
+  "description": "Make cryptocurrencies always green on CoinMarketCap",
+
+  "content_scripts": [{
+		"css": ["styles.css"],
+		"js": ["index.js"],
+    "matches": ["https://coinmarketcap.com/*"]
+  }]
+
+}

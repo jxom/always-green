@@ -1,0 +1,7 @@
+.negative_change {
+	color: #093 !important;
+}
+
+td.negative_change + td img.sparkline {
+	transform: scaleY(-1);
+}
