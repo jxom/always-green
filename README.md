@@ -1,2 +1,2 @@
 # always-green
-CoinMarketCap always green green!
+CoinMarketCap always green!
